@@ -1,0 +1,61 @@
+Types of variables:
+There are 3 types of variables in Java with respect to scope/visibility/accessibility:
+1) Local
+2) instance
+3) static
+
+LOCAL VARIABLES:
+Local variables are the variables, which are defined inside the block of code, such as
+if-else statement,loop, switch-statement, or main methods. They can only be accessed with-in that block of code.
+UpSide:
+They occupy the memory for least amount of time inside your computer.
+You should always try to go with local variables.
+DownSide:
+They can only be accessed within the same block where they are created.
+
+INSTANCE VARIABLES:
+The variables which are defined inside a class, but outside of block of code, like method,
+if-else statement, loop, switch etc, are called instance variables.They can be accessed anywhere
+in the class except static methods.
+UpSide:
+They can be accessed anywhere inside the class other than static methods.
+DownSide:
+They occupy the memory as long as the class is created. They are kept there for as long as an object
+of the class is created.
+
+STATIC VARIABLES:
+Static variables are created using static keyword. They are also created outside of blocks
+of code, like methods, loops etc.
+UpSide:
+We can save a lot of space, because for static, only one memory location is used for all
+the objects.
+DownSide:
+It occupies the memory for longest period of time. Static variables hold only one copy
+for all the objects.
+
+
+ACCESS MODIFIERS:
+Access Modifiers in Java help us control who can access what. There are four access levels.
+We use three keywords to control these levels:
+1) private
+2) default
+3) protected
+4) public
+Private:
+Is the most restricted one and when used with a variable or method, those can't be accessed
+outside of that class.
+
+Default:
+Anything that you create inside the class, if you don't specify the access mode, will be
+created by default method. They can be accessed in other classes within the same package.
+
+Public:
+Public variables, classes and methods can be accessed in any places within the same project.
+
+Important note:
+1) 99% of all the methods are public.
+2) 99% of the instance fields are created as private.
+3) 99% of static fields are public.
+4) 99% of the time class are also public.
+
+

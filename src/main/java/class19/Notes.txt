@@ -1,0 +1,12 @@
+Type casting in object:
+Converting the datatype of the data. There are two types of type casting:upcasting and down-casting.
+Implicit/automatic/widening is when we convert datatype from smaller to bigger datatype.
+Explicit/manual/narrowing is when we create a datatype from bigger to smaller datatype.
+PolyMorphism in Java:
+If we are performing multiple operations, but with different objects, we can use
+polymorphism to create all the objects and call those methods once.We shall
+be able to code 4x fewer lines.To achieve polymorphism, we must use overriding or overloading.
+There are two types of polymorphism:Static & Dynamic.
+Dynamic Polymorphism is performed through Inheritance and Method-overriding.
+Static Polymorphism is performed through Method-overloading only. They dont need
+Inheritance.

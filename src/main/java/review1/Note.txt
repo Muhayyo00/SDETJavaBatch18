@@ -1,0 +1,31 @@
+Why are we here?
+We are here to be automation engineer.
+What do Automation engineers do?
+The write code which test software applications like Amazon.com, facebook.com and etc. To save time.
+What do we need to automate the testing?
+We need to write instructions in a language that computer can understand.Such as Java.
+How we can learn Java effectively?
+Practive Practive Practive.
+Variables:
+Variables are containers that we use to store the information.
+There are 8 basic types of variables which are called primitives:
+
+byte
+short
+int (most widely used type)
+long
+
+
+float
+double (most widely used type)
+char
+boolean (heavily widely used type to write logic)
+
+We have non-primitive data type-String
+
+Arithmetic Operators(+ - / * %):
+These are symbols in jva that we use to perform addition,
+ subtraction, multiplication, division and modulus
+ ShortHandOperator:
+ These are same above operators but a shorter way of doing above calculations
+ +=  -=  *=  /=  %=

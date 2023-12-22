@@ -1,0 +1,2 @@
+Constructor:
+Constructor in java is a piece of code that helps us build the object of a class easily.

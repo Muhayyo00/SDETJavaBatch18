@@ -1,0 +1,12 @@
+package class6;
+
+public class E1Loop {
+    public static void main(String[] args) {
+
+        int i=10;
+        while(i<=5) {
+            System.out.println("Hello Batch 18");//executes only once!
+        i=i+1;
+        }
+    }
+}

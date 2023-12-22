@@ -1,0 +1,10 @@
+Inheritance:
+Inheritance allows us to build classes from existing classes. We can inherit fields
+and methods from existing classes if we need them in other classes.
+There are 5 major types of inheritance:
+1) single inheritance (1 parent, 1 child)
+2) Hierarchical inheritance (1 parent, several children)
+3) Multilevel inheritance (children inherit from parents and parent inherit from grandparents)
+4) Multiple inheritance (multiple parent classes and a single child/derived class. This is NOT allowed
+in Java).
+5) Hybrid inheritance (all inheritance types mixed up together)
