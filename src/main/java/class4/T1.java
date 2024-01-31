@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class T1 {
     public static void main(String[] args) {
-/* You are a loan specialist and need to ask user what is the amount of loan is needed.
+/* You are a loan specialist and need to ask user what amount of loan is needed.
 If loan is less or equal to 200,000, then you would lend the money, otherwise, you would reject
 the client
  */

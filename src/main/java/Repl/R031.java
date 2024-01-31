@@ -20,6 +20,8 @@ public class R031 {
     }else {
             System.out.println("I stay home and practice Java");
         }
+
+
         }
     }
 

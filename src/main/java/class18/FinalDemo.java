@@ -1,7 +1,7 @@
 package class18;
 
 public class FinalDemo {
-    /*If we put the keyword word:final before the variable and put something inside it, this field will become
+    /*If we put the keyword:final before the variable and put something inside it, this field will become
     final and no one will be able to change it.
     final cannot be declared empty. It should have some variable
     Overload is changing in parameters but Overriding is changing methods

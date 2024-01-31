@@ -8,7 +8,11 @@ while(x>=0) {
     System.out.println(x);
     x--;
 }
-
+int s=15;
+while(s>=0){
+    System.out.println(s);
+    s--;
+}
 
 
 

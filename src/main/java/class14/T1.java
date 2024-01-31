@@ -16,8 +16,8 @@ public class T1 {
 
     public static void main(String[] args) {
         T1 t=new T1();
-        int[] numbers={10, 20, 10};
-        int sum=t.sumArray(numbers);
+        int[] arr={10, 20, 10};
+        int sum=t.sumArray(arr);
         System.out.println(sum);
 
     }

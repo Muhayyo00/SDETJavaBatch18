@@ -1,0 +1,7 @@
+Why we should learn how to read/write data in an Excel file?
+When we perform data driven testing, we need to read/write data in Excel files.
+What do we need to know for reading the data from any file?
+1)We must know the location of the file
+2)We must know who to bring the data from the file into the script/Java code.
+3) We must have a clas to manipulate the file. How to get the location of the file in Intellij?
+To get the location of File in intellij we can right-click and copy the path reference.

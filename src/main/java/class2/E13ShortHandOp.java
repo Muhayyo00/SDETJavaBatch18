@@ -6,8 +6,7 @@ public class E13ShortHandOp {
      int num=100;
      //num=num+20;
         System.out.println(num);
-
-num+=20;
+      num+=20;
         System.out.println(num);
 
 

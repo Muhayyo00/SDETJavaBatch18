@@ -11,7 +11,7 @@ Why should we use NOT !:
 When we have an un even set we can use the NOT! to simplify our if condition.
 Logical OR (||) operator:
 When we have to combine multiple conditions in such a way that as soon as one
-condition becomes true. the overall result should be true, we can use the logical OR operator.
+condition becomes true, the overall result should be true, we can use the logical OR operator.
 Logical AND (&&) Operator:
 When we have to combine multiple conditions in such a way that as soon as one of the conditions
 becomes false, then overall result is false. It only returns true when all the conditions are true.

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class R041 {
     public static void main(String[] args) {
-     Scanner scan=new Scanner (System.in);
+    /* Scanner scan=new Scanner (System.in);
         System.out.println("Enter the age of the child");
         int age=scan.nextInt();
         switch(age) {
@@ -24,7 +24,44 @@ public class R041 {
                 System.out.println("I don't know how old you are");
                 break;
 
+        }*/
+
+Scanner scanner=new Scanner(System.in);
+        System.out.println("Enter the age of the child");
+       int age=scanner.nextInt();
+        switch(age){
+            case 1:
+            System.out.println("You can crawl");
+            break;
+            case 2:
+            System.out.println("You can talk");
+            break;
+            case 3:
+            System.out.println("You can dance");
+            break;
+            case 4:
+            System.out.println("You can get into trouble");
+            break;
+            default:
+            System.out.println("I don't know your age");
         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

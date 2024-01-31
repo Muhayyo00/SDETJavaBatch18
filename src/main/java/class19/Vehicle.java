@@ -1,8 +1,8 @@
 package class19;
 
 public class Vehicle {
-   /*Vehicle Hierarchy Task: Create a class Vehicle with subclasses like Car, Truck,
-    Motorcycle, and Bicycle.
+/*Vehicle Hierarchy Task: Create a class Vehicle with subclasses like Car, Truck,
+  Motorcycle, and Bicycle.
 Define common attributes like speed, color, and fuelType in the Vehicle class.
 Override methods in the subclasses, like accelerate and brake, with specific behaviors.
 Add unique methods in subclasses, like loadCargo in Truck.

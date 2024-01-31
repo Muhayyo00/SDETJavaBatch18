@@ -11,8 +11,8 @@ int sumEven=0;
        for(int x:numbers) {
            if(x%2==0) {
                sumEven=sumEven+x;
-           }
-           if(x%2!=0) {
+           }else{
+           //if(x%2!=0) {we can say it this way as well
                sumOdd=sumOdd+x;
            }
         }

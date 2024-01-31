@@ -9,7 +9,9 @@ public class E {
     }
 }
 class F extends E{
-
+    public static void printF() {
+        System.out.println("Hello Batch 18");
+    }
 }
 
 class ETester{

@@ -6,9 +6,8 @@ public class E12VarUpdate {
       int num=100;
       num=num+20;
       num=0;
-        System.out.println(num);
-
-        System.out.println(num);
+      System.out.println(num);
+      System.out.println(num);
 
 
     }

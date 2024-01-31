@@ -5,10 +5,9 @@ public class RelationalOp {
 
         System.out.println(10>5);
         System.out.println(2<15);
-
         System.out.println(2>15);
 
-boolean isItTrueOrFalse=45>50;
+        boolean isItTrueOrFalse=45>50;
         System.out.println(isItTrueOrFalse);
 
 

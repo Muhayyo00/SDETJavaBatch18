@@ -7,7 +7,7 @@ public class E1Arrays {
         int previous=numbers[0];
         //a variable to track if we find any counter example
 boolean isSorted=true;
-        for(int current:numbers) {
+        for(int current :numbers) {
             //checking for any counter example
             if(previous>current) {
                 isSorted=false;

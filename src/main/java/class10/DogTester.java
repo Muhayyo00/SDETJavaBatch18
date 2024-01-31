@@ -25,7 +25,6 @@ public class DogTester {
 
 
         Dog dog2=new Dog();
-
         dog2.name="Leo";
         dog2.breed="BullDog";
         dog2.weight=8;

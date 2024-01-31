@@ -1,8 +1,8 @@
 package class19;
 
 public class BankAccount {
-    /*Banking System Task: Design a BankAccount class with subclasses SavingsAccount,
-    CheckingAccount, and FixedDepositAccount.
+ /*Banking System Task: Design a BankAccount class with subclasses SavingsAccount,
+  CheckingAccount, and FixedDepositAccount.
 
 Common attributes might include accountNumber, balance, and accountHolderName.
 Override methods like withdraw and deposit in each subclass to handle specific rules.

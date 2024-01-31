@@ -1,13 +1,11 @@
 package class3;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class E1ElseIfQuiz {
     public static void main(String[] args) {
         int age = 20;
         if (age < 1) {
             System.out.println("Baby");
-        } else if (age < 15) {
+        } else if (age < 19) {
             System.out.println("teenager");
 
         } else if (age < 30) {
@@ -54,12 +52,12 @@ public class E1ElseIfQuiz {
             System.out.println("It is positive");
         }else if (num < 0) {
         System.out.println("It is negative");
-    }else {
+        }else {
             System.out.println("It is zero");
 
         }
 
-int number=13;
+       int number=13;
         if(number%2==0){
             System.out.println(number+" is an even number");
         }else{

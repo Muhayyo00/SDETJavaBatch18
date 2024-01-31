@@ -17,8 +17,8 @@ public class E1NestedIfConditions {
             }else{
                 System.out.println("Room 2 is closed");
             }
-                    }else{
-            System.out.println("Can'T enter the house. Main door is closed");
+            }else{
+            System.out.println("Can't enter the house. Main door is closed");
         }
 
 

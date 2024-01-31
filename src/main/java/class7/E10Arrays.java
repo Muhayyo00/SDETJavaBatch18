@@ -10,7 +10,7 @@ public class E10Arrays {
         System.out.println(numbers[4]);
                 */
 
-        for (int i=0; i<5; i++) {
+        for (int i=0; i<numbers.length; i++) {
 
             System.out.println(numbers[i]);
         }

@@ -8,6 +8,7 @@ public class HW1 {
         */
 String[][] countries={{"Bahamas","Canada", "El Salvador", "Costa Rica"},
                       {"Argentina", "Venezuela", "Colombia", "Brazil"},
+                      {"Poland", "Germany", "France", "Hungary"},
                       {"Tajikistan", "Qatar", "Singapore", "Uzbekistan"},
                       {"Nigeria", "Egypt", "Morocco", "Tunisia"}
                      };

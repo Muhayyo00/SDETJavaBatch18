@@ -8,7 +8,7 @@ public class E4Arrays {
                 {80, 90, 78, 45},
                 {45, 55, 66}
         };
-        //entire one d ray from the 2d array
+        //entire one d array from the 2d array
         int[] row0=matrix[0];
         System.out.println(row0.length);//3 elements on row 0:10,20,50
         for(int n:row0) {

@@ -4,13 +4,38 @@ import java.util.Scanner;
 
 public class R027 {
     public static void main(String[] args) {
-        Scanner scan=new Scanner(System.in);
+       /* Scanner scan=new Scanner(System.in);
         System.out.println("Please enter your age");
         int age=scan.nextInt();
         if(age>=18) {
             System.out.println("You are eligible to vote");
         }else{
             System.out.println("You are not eligible to vote");
+        }*/
+
+        Scanner scanner=new Scanner(System.in);
+        System.out.println("Please enter your age: ");
+        int age=scanner.nextInt();
+        if(age>=18){
+            System.out.println("You are eligible to vote");
+        }else{
+            System.out.println("You are not eligible to vote");
         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
 }

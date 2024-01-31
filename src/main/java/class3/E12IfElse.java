@@ -3,9 +3,8 @@ package class3;
 public class E12IfElse {
     public static void main(String[] args) {
         String name="Karimi";
-        /* whenever we have a nonprimitive (String) type,
-        we should never use == sign
-         */
+        // whenever we have a non-primitive (String) type, we should never use == sign
+
         if(!name.equals("Sino")){
             System.out.println("Fast");
         }else{
@@ -26,9 +25,9 @@ int testScore=36;
               System.out.println("Fail");
             }
 
-        String trafficLight="Green";
+        String trafficLight="Red";
         String trafficLight1="Yellow";
-    String trafficLight2="Green";
+        String trafficLight2="Green";
     if(trafficLight.equals("Red")){
         System.out.println("Stop");
     }else if(trafficLight.equals("Yellow")){

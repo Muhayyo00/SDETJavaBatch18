@@ -1,0 +1,15 @@
+Interface:
+Interfaces are contracts. They are used to make sure that programmers are on the same page.
+Encapsulation:
+Encapsulation says to create a class for every separate entity, and define methods related to that entity in that
+class instead of putting everything inside the main method. It also says to make your fields
+(instance variables) private and define getter and setter methods.
+Getter methods have return datatype. Getter methods are used to access the selected private fields.
+Setter methods take information as value and print.They always have void method.
+Setter methods are used to modify the selected private fields.
+Getter methods-read
+Setter method-write
+=================================================================================================================
+Collection Framework:
+is a collection of classes and interfaces which allows us to store and manipulate large
+amount of data easily.

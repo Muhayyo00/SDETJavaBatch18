@@ -14,3 +14,11 @@ public class R020 {
 
     }
 }
+
+/* Scanner scanner=new Scanner(System.in);
+System.out.println("Please enter first name");
+String name=scanner.nextLine();
+System.out.println("Please enter the last name");
+String lName=scanner.nextLine();
+ System.out.println(name+" "+lName);
+ */

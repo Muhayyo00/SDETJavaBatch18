@@ -1,12 +1,12 @@
 Rules:
     1) We can't use a variable if we have not created it first.
-    2) Java is case-sensitive meaning for java fname, Fname, fName
-    are all different.
-    are all different.
+    2) Java is case-sensitive meaning for java fname, Fname, fName are all different.
+
 ================================================
 Commands to print things on the console.
 System.out.println(10) is going to print 10 on the console.
 System.out.print(10) it prints everything on the same line.
+
 Variables:
     are containers which can hold values for us. There are 8
     basic types of variables called as primitive data types.

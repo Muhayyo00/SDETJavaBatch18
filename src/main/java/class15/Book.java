@@ -1,9 +1,9 @@
 package class15;
 
 public class Book {
-    /* Write Book class that will have 5 instance variables and 2 Constructors.
+    /* Write a Book class that will have 5 instance variables and 2 Constructors.
     While creating an object, make sure: Instance variables are being initialized and
-    Both Constructor are being executed.
+    Both Constructors are being executed.
      */
         private String title;
         private String author;

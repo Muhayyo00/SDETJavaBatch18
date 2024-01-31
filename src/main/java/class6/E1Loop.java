@@ -5,7 +5,7 @@ public class E1Loop {
 
         int i=10;
         while(i<=5) {
-            System.out.println("Hello Batch 18");//executes only once!
+            System.out.println("Hello Batch 18");
         i=i+1;
         }
     }

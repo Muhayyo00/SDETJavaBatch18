@@ -7,9 +7,7 @@ public class R043 {
        Scanner scan=new Scanner(System.in);
         System.out.println("Input a number between 1-12");
         int num=scan.nextInt();
-        String January, February, March, April, May, June, July, August, September,
-         October, November, December;
-        switch(num) {
+          switch(num) {
             case 1:
             System.out.println("January");
             break;

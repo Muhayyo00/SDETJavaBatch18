@@ -39,12 +39,18 @@ class SchoolStudent extends Student {
 
     public static void main(String[] args) {
         Student[] arr={new SyntaxStudent(), new CollegeStudent(), new SchoolStudent()};
-        for (int i = 0; i < arr.length; i++) {
-           arr[i].study();
-           arr[i].doHW();
-           arr[i].getScholarship();
-
-
+       // for (int i = 0; i < arr.length; i++) {
+        //   arr[i].study();
+        //   arr[i].doHW();
+        //   arr[i].getScholarship();
+        //Second way with enhanced for loop
+        for(Student s:arr){
+            s.doHW();
+            s.study();
+            s.getScholarship();
         }
+
+
+
     }
 }

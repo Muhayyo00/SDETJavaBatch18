@@ -8,10 +8,7 @@ public class E3Arithmetic0p {
         System.out.println(number1+number2);
         System.out.println(number1*number2);
         System.out.println(number1-number2);
-
         System.out.println(number2-number1);
-
-
         System.out.println(number2/number1);
 
 

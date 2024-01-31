@@ -12,7 +12,7 @@ public class DemoTester {
     it more flexible for users. If we enter nothing inside the
     brackets in above, it will automatically choose the first
     constructor, if I put age, second will be chosen. If I put
-    a name, 3rd will be chosen. Even sequence is considered.
+    a name, 3rd will be chosen. Even sequence matters.
     Look at Demo class. constructors 4 and 5 have same parameters,
     yet sequence differs. If I put age first and then name, 5th
     constructor will be chosen. If I put name first and then age,

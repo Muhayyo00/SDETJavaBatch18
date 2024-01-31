@@ -1,11 +1,10 @@
 package class20;
 public abstract class Computer {
-    ///ABSTRACT means something Uncompleted
-//We can not create an object of the Object Class
-//Every abstract class MUST have in the Inheritance
+ ///ABSTRACT means something incomplete
+//We can not create an object of the Abstract Class
+//Every abstract class MUST have Inheritance
 
        public static String type;
-
        String name,color;
         int memory;
 
@@ -23,10 +22,8 @@ public abstract class Computer {
 
          */
 
-
-        //Type static oldugu icin method'ta static variable kullanabiliyoruz
     public static void playSong(){
-        System.out.println("I cab play music on my "+type);
+        System.out.println("I can play music on my "+type);
     }
     protected void printInfo(){
         System.out.println("I have "+name+" computer with "+memory+" memory");

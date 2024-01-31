@@ -1,7 +1,7 @@
 package class18;
 
 public class Car {
-    /*Car Rental System:
+/*Car Rental System:
 Create a class Car with properties like make, model, and year.
 Implement a method calculate_rental_price based on the number of rental days.
 Create two subclasses: LuxuryCar and EconomyCar. Override the calculate_rental_price method in LuxuryCar to include additional charges.

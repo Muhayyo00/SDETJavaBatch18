@@ -6,7 +6,7 @@ public class T3 {
     public static void main(String[] args) {
 
 /* Create a JAVA program that will ask user to input city and temperature.
-You program should convert Fahrenheit into celsius and print "The temperature in the city______ is___"
+Your program should convert Fahrenheit into Celsius and print "The temperature in the city______ is___"
  */
 
         Scanner sc=new Scanner(System.in);

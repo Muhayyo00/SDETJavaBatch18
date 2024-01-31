@@ -9,9 +9,9 @@ public class TemperatureCheck {
           System.out.println("Water will NOT freeze with temperature "+temp);
       }
 
-int actHours=30;
-        int expHours=25;
-        if(actHours>expHours){
+int actualHours=30;
+        int expectedHours=25;
+        if(actualHours>expectedHours){
             System.out.println("You will love the course and you will succeed");
                     }else{
             System.out.println("Course will be very hard for you!");

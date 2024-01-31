@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class R026 {
     public static void main(String[] args) {
-        Scanner scan=new Scanner(System.in);
+       /* Scanner scan=new Scanner(System.in);
         System.out.println("In:");
         String name=scan.nextLine();
         String Chen;
@@ -13,6 +13,35 @@ public class R026 {
         }else{
             System.out.println("student");
         }
+*/
+
+        Scanner scanner=new Scanner(System.in);
+        System.out.println("Input: ");
+        String name=scanner.nextLine();
+        if (name.equalsIgnoreCase("Chen")) {
+            System.out.println("teacher");
+        }else{
+            System.out.println("student");
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     }

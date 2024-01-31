@@ -3,7 +3,6 @@ package class14;
 public class Cat {
     //instance variable
     String name="kitti";
-
     void printName(){
         //local variable
         String name="Pishak";

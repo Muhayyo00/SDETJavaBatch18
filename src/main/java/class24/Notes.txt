@@ -1,0 +1,6 @@
+Maps:
+Maps allow us to store key value pairs. Keys are always unique but values can be duplicate.
+There are three main classes which implement Map in Java:
+1. HashMap
+2.LinkedHashMap
+3.TreeMap

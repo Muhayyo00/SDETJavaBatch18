@@ -10,7 +10,7 @@ public class T4 {
         */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("What month were you born?");
+        System.out.println("What month were you born in?");
         String month = sc.next();
         String season;
         if (month.equalsIgnoreCase("March") ||

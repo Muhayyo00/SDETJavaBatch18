@@ -2,7 +2,7 @@ package class16;
 
 public class TeacherInheritance {
     /* Write a java program called Teacher. Identify features and 4 behaviours of that class. Create
-    3 subclasses MathTester, ChemistryTeacher and PianoTeacher.Test all 4 classes.
+    3 subclasses MathTeacher, ChemistryTeacher and PianoTeacher.Check all 4 classes.
      */
     String name;
     String subject;

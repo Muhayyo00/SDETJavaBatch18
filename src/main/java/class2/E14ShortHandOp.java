@@ -5,11 +5,11 @@ public class E14ShortHandOp {
 
    int num=10;
    num*=10;
-        System.out.println(num);
+   System.out.println(num);
 
-        int num1=14;
-        num1=num1%2;
-        System.out.println(num1);
+    int num1=14;
+    num1=num1%2;
+    System.out.println(num1);
 
 
 

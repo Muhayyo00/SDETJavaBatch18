@@ -8,7 +8,7 @@ public class E1ObjectTypeCasting {
 
         //double num2=10.5;
         //int num3=num2;
-        /*get error because double is greater than int datatype.We can loose some piece
+        /*get error because double is greater than int datatype.We can lose some piece
         of information when converting bigger datatype to smaller.
          */
         double num2=10.5;

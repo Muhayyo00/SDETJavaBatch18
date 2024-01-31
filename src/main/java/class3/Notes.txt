@@ -7,21 +7,24 @@ int
 long
 float
 double.
+
 There are two types of casting.
 When we move from smaller boxes to larger boxes, it is called automatic/widening/implicit.
 When we move from larger boxes to smaller boxes, it is called manual/narrowing/explicit.
+
 Why do we need type casting?
-1) Sometimes we might only be interested in whole numbers and want to ignore the decimal parts.
-2) When multiple developers work on the same project,
- they might use different data types, and we might have to convert these before we merge their code.
+1) Sometimes, we might only be interested in whole numbers and want to ignore the decimal parts.
+2) When multiple developers work on the same project, they might use different data types, and we
+ might have to convert these before we merge their codes.
+
 What is the syntax:
-No syntax when we move from smaller to larger box. SImply assign the values and conversion will happen.
+No syntax when we move from smaller to larger box. Simply assign the values and conversion will happen.
 When we move from larger to smaller box, we need to use parenthesis () and inside them, we specify
 destination data type.
 double box1=12.3;
 int box2=(int)box1;
 Relational Operators:
-Relational operators help us compare things. The return the answer in the form of a boolean true or false.
+Relational operators help us compare things. They return the answer in the form of a boolean true or false.
 > greater than
 < less than
 = equal to

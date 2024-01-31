@@ -9,7 +9,7 @@ public class TException {
         int age=sc.nextInt();
         System.out.println("Please enter your full name");
         //it's going to consume that enter press
-        sc.nextLine();
+        sc.nextLine();//when integer comes before the String, we need to print extra String to start over
         String fullName=sc.nextLine();
         System.out.println("Your name is "+fullName+" and you are "+age+" old");
     }

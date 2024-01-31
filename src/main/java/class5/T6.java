@@ -13,6 +13,7 @@ print which language user speaks. Just do this for 5 countries.
         String country=sc.nextLine();
                 switch (country.toUpperCase()) {
         //or can use (country.toLowerCase())->which will convert everything to lower case
+
             case "USA":
                 System.out.println("You speak English");
                 break;

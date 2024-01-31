@@ -56,6 +56,6 @@ Important note:
 1) 99% of all the methods are public.
 2) 99% of the instance fields are created as private.
 3) 99% of static fields are public.
-4) 99% of the time class are also public.
+4) 99% of the time classes are also public.
 
 

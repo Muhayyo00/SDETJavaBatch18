@@ -6,5 +6,5 @@ There are 5 major types of inheritance:
 2) Hierarchical inheritance (1 parent, several children)
 3) Multilevel inheritance (children inherit from parents and parent inherit from grandparents)
 4) Multiple inheritance (multiple parent classes and a single child/derived class. This is NOT allowed
-in Java).
+in Java). It can cause a Diamond problem.
 5) Hybrid inheritance (all inheritance types mixed up together)

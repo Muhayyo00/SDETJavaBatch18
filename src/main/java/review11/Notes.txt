@@ -1,0 +1,71 @@
+Collection Framework:
+Collections framework is simply a collection of classes and interfaces,which help us store the data
+easily. The classes in this framework are dynamic and have a lot of built-in methods that we can
+use to manipulate the data.
+There are 3 main interfaces:
+1.List
+2.Set
+3.Map
+List has the following properties:
+1. List can store duplicate numbers
+2. They remember the order in which you insert the data
+There are 2 main classes which implement the List interfaces: ArrayList and LinkedList
+Both of these classes have the List properties.
+ArrayList internally uses an array, which makes accessing the elements fast, but adding and
+removing of elements is super slow in ArrayList.
+On the other hand, LinkedList uses a double LinkedList internally.
+Sets:
+Sets don't allow duplicate elements.
+There are three main types of sets:
+1.HashSet
+2.LinkedHashSet
+3.TreeSet
+1) HashSet:
+Pros:
+HashSet is fast
+Cons:
+They don't remember the order in which the elements are inserted.
+2) LinkedHashSet
+Pros:
+They remember the order
+Cons:
+A little slow as compared to HashSet.
+3) TreeSet
+Pros:
+They always keep the data sorted.
+Cons:
+The insertion is very slow
+Maps:
+Pros:
+Maps allow us to store the data in pairs(key, value);
+There are three main types of Maps:
+1) HashMap 2) LinkHashMap 3) TreeMap
+1) HashMap:
+Pros:
+HashSet is fast
+Cons:
+They don't remember the order in which the elements are inserted.
+2) LinkedHashMap
+ Pros:
+ They remember the order
+ Cons:
+ A little slow as compared to HashSet.
+ 3) TreeMap
+ Pros:
+ They always keep the data sorted.
+ Cons:
+ The insertion is very slow
+
+ File Handling:
+ Dealing with files reading/writing/copying/moving files using programming.
+ 1. Know the location of the file
+ 2. Navigate to the location/bring the file to the RAM
+ 3. A software or a class that knows how to read/write data to that file.
+
+ Configuration files:
+ Configuration files are used to store sensitive configuration related information. Like URLs, username, password etc.
+
+
+
+
+

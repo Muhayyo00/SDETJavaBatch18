@@ -6,8 +6,6 @@ public class E9Quiz {
         double a=9;
         double b=4;
         System.out.println(a/b);
-
-
         System.out.println(2+2*2);
 
 

@@ -8,9 +8,7 @@ public class HW1 {
     private static String vowel(String word) {
         String vowel1=word.replaceAll("[^ a,o,u,i,e]", "");
         return vowel1;
-
    }
-
     public static void main(String[] args) {
         HW1 hw=new HW1();
         String word=hw.vowel("Tavallud");

@@ -6,7 +6,7 @@ public class T6InterviewQ {
         // input=>This is sentence i want to reverse
         // output=>sihT si ecnetnes i tnaw ot esrever
                  */
-        String str="This is sentence I want to reverse";
+        String str="This is the sentence I want to reverse";
         String[] words=str.split(" ");
         for (String w:words) {
             for (int i = w.length()-1; i>=0; i--) {

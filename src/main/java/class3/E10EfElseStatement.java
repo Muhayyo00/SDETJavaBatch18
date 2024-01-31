@@ -5,7 +5,7 @@ public class E10EfElseStatement {
 
        int age=60;
        if(age>=60){
-           System.out.println("You get 10% discout");
+           System.out.println("You get 10% discount");
        }else{
            System.out.println("No discount for you");
        }

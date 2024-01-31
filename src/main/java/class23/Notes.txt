@@ -1,0 +1,25 @@
+LinkedList:
+
+
+
+Set:
+Sets are very similar to List, but they don't allow to duplicate the elements.
+There are 3 types of HashSets:
+1.HashSet
+Upside:
+It is very fast.
+Downside:
+They don't store the data in order.
+
+2.LinkedSet
+Upside:
+It remembers the order.
+Downside:
+It is slower than HashSet.
+
+3.TreeSet
+Upside:
+It always keeps the data sorted.
+Downside:
+Inserting new elements
+

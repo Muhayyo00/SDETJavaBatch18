@@ -8,6 +8,7 @@ public class T8InterviewQ {
         for (int i = str.length()-1; i>=0; i--) {
             reverseWord=reverseWord+str.charAt(i);
             }
+        System.out.println(reverseWord);
         if(str.equalsIgnoreCase(reverseWord)) {
             System.out.println("Its a Palindrome");
         }else{
